@@ -42,6 +42,11 @@ fault injection at any of the available signals.
     to initialize HDFIT fault injection and display relevant information (e.g., GEMM operation or SA signal chosen for fault injection). A series of
     representative configurations for each HPC application are also included.
 
+## Contributors
+
+HDFIT has been developed at the Intel Labs Dependability Research Lab by Patrik Omland, Alessio Netti, Yang Peng and Andrea Baldovin.
+For inquiries please contact [Patrik Omland](mailto:patrik.omland@intel.com) or [Alessio Netti](mailto:alessio.netti@intel.com).
+
 ## License Terms
 
 All original code that is part of the HDFIT toolchain is released under the terms of the GNU Lesser General Public License (LGPL)
