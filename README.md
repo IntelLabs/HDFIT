@@ -44,7 +44,7 @@ fault injection at any of the available signals.
 
 ## Contributors
 
-HDFIT has been developed at the Intel Labs Dependability Research Lab by Patrik Omland, Alessio Netti, Yang Peng and Andrea Baldovin.
+HDFIT has been developed at the Intel Labs Dependability Research Lab by Patrik Omland, Alessio Netti, Yang Peng, Andrea Baldovin and Michael Paulitsch.
 For inquiries please contact [Patrik Omland](mailto:patrik.omland@intel.com) or [Alessio Netti](mailto:alessio.netti@intel.com).
 
 ## License Terms
